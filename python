@@ -7,3 +7,12 @@ for element in lst
     if element % 2 = 0:
         lst_even.append(element)
 list(reversed(sorted(lst_even)))
+
+
+
+
+
+
+
+
+Answer: You were missing a colon at the end of your "for" loop, and your if statement should have the mathematical operater "==" instead. 
